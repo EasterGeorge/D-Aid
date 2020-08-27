@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DiabeticsApp</string>
+    <string name="logout">Log Out</string>
+    <string name="revoke_access">Revoke Access</string>
+    <string name="welcome">Welcome</string>
 </resources>
