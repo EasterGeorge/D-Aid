@@ -120,5 +120,5 @@ public class MainActivity extends AppCompatActivity {
             finish();
         }
     }
-//wester20
+
 }
